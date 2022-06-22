@@ -43,7 +43,16 @@ Epicrates was a partisan democrat who helped overthrow the Thirty Tyrants. He wa
 
 Lysias wrote a speech prosecuting Epicrates for corruption and asking the jury not only to convict him but also to be sure they apply the death penalty as punishment.
 
-### Morychus
+### Morychus' house next to the temple of Olympian Zeus
 
 Morychus was a tragic poet and contemporary of Aristophanes. He's ridiculed in multiple plays by Aristophanes as being gluttonous and effeminate. There was an ancient Greek proverb, "More foolish than Morychus," but we don't know whether it referenced this Morychus or someone else.
 
+The house of Morychus is said to be next to the temple of Olympian Zeus. The temple was started in 6th century by tyrants but abandoned early in its construction, remaining that way for centuries. Democratic Athens appears to have felt it was hubristic (it would have been Greece's largest temple) and they did not work on it. Aristotle cites it as an example of a public project by tyrants meant to keep people poor, occupied, and unable to form resistance.
+
+## Herodicus
+
+Socrates says he'd walk with Phaedrus as far as Megara and back to hear the speech. He attributes the walk to Megara as advice from Herodicus, a physician (and physical trainer, and sophist) whose regimen Socrates criticizes in *The Republic* (406a-b):
+
+> "Herodicus was a trainer and became a valetudinarian, and blended gymnastics and medicine, for the torment first and chiefly of himself and then of many successors." "How so?" he said. "By lingering out his death," said I; "for living in perpetual observance of his malady, which was incurable, he was not able to effect a cure, but lived through his days unfit for the business of life, suffering the tortures of the damned if he departed a whit from his fixed regimen, and struggling against death by reason of his science he won the prize of a doting old age."
+
+The distance from Athens to Megara and back was ~50 miles. Hippocrates, a student of Herodicus, mentions (satirically?) that Herodicus killed fever patients by running exercises. Aristotle comments in his book on rhetoric that Herodicus was healthy but at the expense of any human pleasure, and therefore he wasn't happy in regard to health.
