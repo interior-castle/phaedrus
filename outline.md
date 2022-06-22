@@ -16,9 +16,10 @@
 
 - Socrates says he'd walk with Phaedrus as far as Megara and back to hear the speech — that is the city where Lysias later fled to avoid being killed by the Thirty Tyrants. He attributes the regimen to Herodicus, whom he criticizes in The Republic for excesses in exercise (more on him in the [references doc](./references-and-allusions.md)).
 
-- Playful, flirtatious erotic language and wordplay here. "Show me what you've got in your left hand under your cloak." (Har har.) Socrates won't leave Phaedrus alone until Phaedrus shares the speech — the doggedness of a lover described in Lysias' speech.
+- Playful, flirtatious erotic language and wordplay here, and throughout the dialogue. "Show me what you've got in your left hand under your cloak." (Har har.) Socrates won't leave Phaedrus alone until Phaedrus shares the speech — he has the doggedness of a lover described in Lysias' speech.
 
 - Phaedrus says he will recite the speech in the "proper order" — an ironic phrase, since it turns out the speech has no real order at all, being just a series of observations and points about what lovers are like. ("Besides ... besides ... and anyway ... and another point ... another point ...")
 
 ## 229
 
+When I make a change, I can send it from my local computer to the repository online.
