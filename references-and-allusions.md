@@ -1,4 +1,4 @@
-###Lysias###
+## Lysias
 
 Although not present in the dialogue, Lysias looms large. Phaedrus has just come from a visit with Lysias, where he was charmed by a speech, and has a copy of Lysias' speech with him. He's portrayed as a pursuer of Phaedrus.
 
@@ -26,7 +26,7 @@ Euthydemus, the third brother is merely mentioned in the Republic and doesn't ap
 
 Lysias is also mentioned in the very short dialogue "Clitophon," which may not have been written by Plato. It's odd and doesn't seem to fit in well with the rest of Plato's corpus. On the other hand, Xenephon appears to have read it and responded in his own work, which was published while Plato was still alive. So even if it wasn't Plato's work, it nevertheless was circulating during his lifetime.
 
-### Epicrates and the house of Morychus ###
+## Epicrates and the house of Morychus
 
 Phaedrus mentions he was visiting Lysias who was staying at Epicrates' house, which used to belong to Morychus.
 
