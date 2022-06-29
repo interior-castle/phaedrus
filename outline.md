@@ -22,4 +22,3 @@
 
 ## 229
 
-When I make a change, I can send it from my local computer to the repository online.
