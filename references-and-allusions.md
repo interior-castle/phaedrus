@@ -55,11 +55,11 @@ Morychus was a tragic poet and contemporary of Aristophanes. He's ridiculed in m
 
 The house of Morychus is said to be next to the temple of Olympian Zeus. The temple was started in 6th century by tyrants but abandoned early in its construction, remaining that way for centuries. Democratic Athens appears to have felt it was hubristic (it would have been Greece's largest temple) and they did not work on it. Aristotle cites it as an example of a public project by tyrants meant to keep people poor, occupied, and unable to form resistance.
 
-# Acumenus (227)
+# Acumenus and Eryximachus (227 & 268)
 
 Acumenus was a 5th century doctor. Phaedrus calls him a mutual friend when speaking to Socrates at 227.
 
-Acumenus was the father of Eryximachus, also a doctor, who has a speaking part in the *Symposium*. Eryximachus appears to have been a lover of Phaedrus.
+Acumenus was the father of Eryximachus, also a doctor, who has a speaking part in the *Symposium*. Eryximachus appears to have been a lover of Phaedrus. He's mentioned at 268 along with his father.
 
 # Herodicus (227)
 
@@ -71,13 +71,21 @@ The distance from Athens to Megara and back was ~50 miles. Hippocrates, a studen
 
 # Ilisus, Boreas, Orithuia (229)
 
-The Ilisus was a small stream/river that ran beside Athens. Today it is channeled almost entirely underground, built over by the city.
+The Ilisus was a small tributary that ran beside Athens. Today it is channeled almost entirely underground, built over by the city.
 
-According to a legend, Orithuia was the daughter of the Athenian king Erechtheus. She was playing with nymphs along the bank of the river and was abducted by Boreas, the personification of the north wind. This appears to be rape/marriage. The force of the wind could be seen as symbolic of the force of rhetoric.
+According to a legend, Orithuia was the daughter of the Athenian king Erechtheus. She was playing with nymphs along the bank of the river and was abducted by Boreas, the personification of the north wind. This appears to be a rape/marriage situation. 
 
-It is elsewhere reported that she became, by Boreas, the mother of four children, two of whom were the "Boreads," brothers with special powers (wings and the ability to fly).
+The force of the wind and abduction could be seen as symbolic of or a reference to the force of rhetoric, or perhaps the violent side of erotic desire.
+
+It is elsewhere reported that she became, by Boreas, the mother of four children, two of whom were the "Boreads," brothers with special powers — wings and the ability to fly — and were Argonauts. Interesting legend regarding one of the brothers (from Wikipedia): "Calais in one tradition is said to be the beloved of Orpheus; Orpheus was said to have been killed at the hands of jealous Thracian women whilst he wandered the countryside thinking of Calais."
 
 There are many legends surrounding Erechtheus (aka Erichthonius). Not many seem like they could be related to the *Phaedrus*, although according to Diodorus, Erechtheus was an Egyptian who among other things brought the Eleusinian mysteries to Athens.
 
+# Isocrates (279)
 
+Isocrates is called beautiful and a friend of Socrates in this dialogue. In history, he was the son of a wealthy man who had all the top sophists/rhetoricians, as well Socrates, tutor him. He had a timid character, and his rhetoric and speeches are characterized as being less political in nature (insofar as he was not a major player in the big political issues of his day) and more concerned with eloquence and ethics. He made a fortune as a teacher of rhetoric and as a speechwriter.
+
+He is praised for his clear thinking and composition, perhaps qualities Plato intends to contrast with Lysias' "and another thing ..." style.
+
+Socrates' prediction of Isocrates' later success seems to convey Plato's approval or fondness of him. Although prompted by Phaedrus to talk about Isocrates, Socrates' endorsement seems to come out of nowhere.
 

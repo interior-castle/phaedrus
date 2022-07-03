@@ -22,3 +22,13 @@
 
 ## 229
 
+- They walk along the river to their chosen spot. Interesting references to Boreas and Orithuia (see references doc). It suggests that rhetoric has an overpowering forecefulness to it, perhaps comparable in some way to rape.
+
+- Socrates explains why he accepts myths: he could dismiss them by coming up with clever stories, but then he'd have a mountain of work to do to explain them all. And it would distract him from his more important task of first knowing himself, taken on in obedience to the Oracle at Delphi. Note that he speaks here of first knowing his own soul before investigating other subjects — advice for the practice of true rhetoric that he will re-iterate later on (271).
+
+    For Socrates, what's less important is the literal truth behind myths and what's more important is ascertaining the truths they convey. He is happy to assume they must contain truth, deferring to ancients for their wisdom in creating and passing on these stories as they are, not esteeming himself 
+
+
+##230
+
+- 
