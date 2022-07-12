@@ -85,6 +85,8 @@ There are many legends surrounding Erechtheus (aka Erichthonius). Not many seem 
 
 Isocrates is called beautiful and a friend of Socrates in this dialogue. In history, he was the son of a wealthy man who had all the top sophists/rhetoricians, as well Socrates, tutor him. He had a timid character, and his rhetoric and speeches are characterized as being less political in nature (insofar as he was not a major player in the big political issues of his day) and more concerned with eloquence and ethics. He made a fortune as a teacher of rhetoric and as a speechwriter.
 
+Isocrates famously critiques the rhetoricians of his day for not making moral education part and parcel of their schools.
+
 He is praised for his clear thinking and composition, perhaps qualities Plato intends to contrast with Lysias' "and another thing ..." style.
 
 Socrates' prediction of Isocrates' later success seems to convey Plato's approval or fondness of him. Although prompted by Phaedrus to talk about Isocrates, Socrates' endorsement seems to come out of nowhere.
